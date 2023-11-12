@@ -1,4 +1,4 @@
-import { viteMockServe } from 'vite-plugin-mock'
+import { viteMockServe } from '@micro-web/vite-plugin-mock'
 
 import vue from '@vitejs/plugin-vue'
 
